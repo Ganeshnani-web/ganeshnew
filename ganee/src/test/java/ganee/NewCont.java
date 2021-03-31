@@ -7,4 +7,9 @@ public class NewCont {
 	public void con() {
 		System.out.println("new maven created");
 	}
+     public void vn()
+     {
+    	 System.out.println("hpoiee");
+     }
+
 }
